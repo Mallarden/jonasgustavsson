@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "broken-image",
+        "value": "*",
+        "files": [
+          "src/App.tsx"
+        ],
+        "createdAt": "2026-10-17T19:15:46.106Z",
+        "reason": "Claude: src/srcSet are computed from src/images.json at runtime; static scan can't resolve them"
+      }
+    ]
+  }
+}

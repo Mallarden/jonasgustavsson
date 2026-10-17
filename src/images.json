@@ -1,0 +1,650 @@
+{
+ "imgi_511_Nya-rum003.jpg": {
+  "slug": "511-nya-rum003",
+  "w": 850,
+  "h": 567,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(56,40,24)"
+ },
+ "imgi_512_Nya-rum004.jpg": {
+  "slug": "512-nya-rum004",
+  "w": 850,
+  "h": 567,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_513_Nya-rum11.jpg": {
+  "slug": "513-nya-rum11",
+  "w": 850,
+  "h": 573,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(168,168,168)"
+ },
+ "imgi_515_Nya-rum31.jpg": {
+  "slug": "515-nya-rum31",
+  "w": 617,
+  "h": 822,
+  "widths": [
+   480,
+   617
+  ],
+  "color": "rgb(120,120,104)"
+ },
+ "imgi_516_Nya-rum41.jpg": {
+  "slug": "516-nya-rum41",
+  "w": 612,
+  "h": 822,
+  "widths": [
+   480,
+   612
+  ],
+  "color": "rgb(72,56,40)"
+ },
+ "imgi_519_Sköna-hem003.jpg": {
+  "slug": "519-skona-hem003",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_520_Sköna-hem004.jpg": {
+  "slug": "520-skona-hem004",
+  "w": 850,
+  "h": 567,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(24,24,24)"
+ },
+ "imgi_522_Sköna-hem006.jpg": {
+  "slug": "522-skona-hem006",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_529_NR-0011.jpg": {
+  "slug": "529-nr-0011",
+  "w": 1134,
+  "h": 732,
+  "widths": [
+   480,
+   960,
+   1134
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_530_NR-0021.jpg": {
+  "slug": "530-nr-0021",
+  "w": 851,
+  "h": 1134,
+  "widths": [
+   480,
+   851
+  ],
+  "color": "rgb(72,72,72)"
+ },
+ "imgi_531_NR-0031.jpg": {
+  "slug": "531-nr-0031",
+  "w": 1134,
+  "h": 732,
+  "widths": [
+   480,
+   960,
+   1134
+  ],
+  "color": "rgb(24,24,24)"
+ },
+ "imgi_532_NR-0041.jpg": {
+  "slug": "532-nr-0041",
+  "w": 850,
+  "h": 1134,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_533_Belysning-RH001.jpg": {
+  "slug": "533-belysning-rh001",
+  "w": 1134,
+  "h": 732,
+  "widths": [
+   480,
+   960,
+   1134
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_534_Belysning-RH002.jpg": {
+  "slug": "534-belysning-rh002",
+  "w": 843,
+  "h": 1134,
+  "widths": [
+   480,
+   843
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_535_Belysning-RH003.jpg": {
+  "slug": "535-belysning-rh003",
+  "w": 837,
+  "h": 1134,
+  "widths": [
+   480,
+   837
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_536_Belysning-RH004.jpg": {
+  "slug": "536-belysning-rh004",
+  "w": 856,
+  "h": 1134,
+  "widths": [
+   480,
+   856
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_537_Belysning-RH005.jpg": {
+  "slug": "537-belysning-rh005",
+  "w": 851,
+  "h": 1134,
+  "widths": [
+   480,
+   851
+  ],
+  "color": "rgb(56,56,56)"
+ },
+ "imgi_551_1.jpg": {
+  "slug": "551-1",
+  "w": 621,
+  "h": 850,
+  "widths": [
+   480,
+   621
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_552_2.jpg": {
+  "slug": "552-2",
+  "w": 625,
+  "h": 850,
+  "widths": [
+   480,
+   625
+  ],
+  "color": "rgb(24,24,24)"
+ },
+ "imgi_553_3.jpg": {
+  "slug": "553-3",
+  "w": 630,
+  "h": 850,
+  "widths": [
+   480,
+   630
+  ],
+  "color": "rgb(168,168,152)"
+ },
+ "imgi_554_4.jpg": {
+  "slug": "554-4",
+  "w": 621,
+  "h": 850,
+  "widths": [
+   480,
+   621
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_555_5.jpg": {
+  "slug": "555-5",
+  "w": 632,
+  "h": 850,
+  "widths": [
+   480,
+   632
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_556_RH-001.jpg": {
+  "slug": "556-rh-001",
+  "w": 850,
+  "h": 567,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_582_ELLE-D1.jpg": {
+  "slug": "582-elle-d1",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(200,200,200)"
+ },
+ "imgi_583_ELLE-D2.jpg": {
+  "slug": "583-elle-d2",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_584_ELLE-D3.jpg": {
+  "slug": "584-elle-d3",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "imgi_585_ELLE-D4.jpg": {
+  "slug": "585-elle-d4",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_586_ELLE-D5.jpg": {
+  "slug": "586-elle-d5",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "imgi_587_ELLE-D6.jpg": {
+  "slug": "587-elle-d6",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "imgi_624_Veranda005.jpg": {
+  "slug": "624-veranda005",
+  "w": 567,
+  "h": 851,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_626_Veranda006.jpg": {
+  "slug": "626-veranda006",
+  "w": 567,
+  "h": 851,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "imgi_627_S0011.jpg": {
+  "slug": "627-s0011",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "imgi_628_S0021.jpg": {
+  "slug": "628-s0021",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "imgi_635_Hornsgatan002.jpg": {
+  "slug": "635-hornsgatan002",
+  "w": 1191,
+  "h": 794,
+  "widths": [
+   480,
+   960,
+   1191
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_640_Insp004.jpg": {
+  "slug": "640-insp004",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(200,200,200)"
+ },
+ "imgi_647_Bord001.jpg": {
+  "slug": "647-bord001",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "imgi_648_Bord002.jpg": {
+  "slug": "648-bord002",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(168,168,168)"
+ },
+ "imgi_649_Bord003.jpg": {
+  "slug": "649-bord003",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(216,152,136)"
+ },
+ "imgi_650_NY-Omslag.jpg": {
+  "slug": "650-ny-omslag",
+  "w": 652,
+  "h": 842,
+  "widths": [
+   480,
+   652
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "imgi_651_002.jpg": {
+  "slug": "651-002",
+  "w": 652,
+  "h": 842,
+  "widths": [
+   480,
+   652
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "imgi_652_005.jpg": {
+  "slug": "652-005",
+  "w": 1304,
+  "h": 842,
+  "widths": [
+   480,
+   960,
+   1304
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_653_001.jpg": {
+  "slug": "653-001",
+  "w": 652,
+  "h": 842,
+  "widths": [
+   480,
+   652
+  ],
+  "color": "rgb(216,200,200)"
+ },
+ "imgi_654_003.jpg": {
+  "slug": "654-003",
+  "w": 652,
+  "h": 842,
+  "widths": [
+   480,
+   652
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_655_004.jpg": {
+  "slug": "655-004",
+  "w": 652,
+  "h": 842,
+  "widths": [
+   480,
+   652
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_662_Filippa-Sid-70.jpg": {
+  "slug": "662-filippa-sid-70",
+  "w": 822,
+  "h": 709,
+  "widths": [
+   480,
+   822
+  ],
+  "color": "rgb(216,88,40)"
+ },
+ "imgi_663_Mattor0001.jpg": {
+  "slug": "663-mattor0001",
+  "w": 708,
+  "h": 923,
+  "widths": [
+   480,
+   708
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_664_Mattor0002.jpg": {
+  "slug": "664-mattor0002",
+  "w": 708,
+  "h": 923,
+  "widths": [
+   480,
+   708
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_665_New-york-Sid-94-1.jpg": {
+  "slug": "665-new-york-sid-94-1",
+  "w": 709,
+  "h": 822,
+  "widths": [
+   480,
+   709
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_666_Nova.jpg": {
+  "slug": "666-nova",
+  "w": 709,
+  "h": 822,
+  "widths": [
+   480,
+   709
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "imgi_667_Pacific-sid-68.jpg": {
+  "slug": "667-pacific-sid-68",
+  "w": 709,
+  "h": 822,
+  "widths": [
+   480,
+   709
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_668_Smile-Sid-92.jpg": {
+  "slug": "668-smile-sid-92",
+  "w": 709,
+  "h": 822,
+  "widths": [
+   480,
+   709
+  ],
+  "color": "rgb(200,200,200)"
+ },
+ "imgi_678_x.jpg": {
+  "slug": "678-x",
+  "w": 908,
+  "h": 567,
+  "widths": [
+   480,
+   908
+  ],
+  "color": "rgb(232,232,248)"
+ },
+ "imgi_679_xx.jpg": {
+  "slug": "679-xx",
+  "w": 908,
+  "h": 567,
+  "widths": [
+   480,
+   908
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_680_a1.jpg": {
+  "slug": "680-a1",
+  "w": 1284,
+  "h": 850,
+  "widths": [
+   480,
+   960,
+   1284
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "imgi_681_aa1.jpg": {
+  "slug": "681-aa1",
+  "w": 1276,
+  "h": 850,
+  "widths": [
+   480,
+   960,
+   1276
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_682_aaa1.jpg": {
+  "slug": "682-aaa1",
+  "w": 1276,
+  "h": 850,
+  "widths": [
+   480,
+   960,
+   1276
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "imgi_683_Plaza002.jpg": {
+  "slug": "683-plaza002",
+  "w": 850,
+  "h": 1276,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "imgi_684_Plaza005.jpg": {
+  "slug": "684-plaza005",
+  "w": 850,
+  "h": 1276,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "imgi_685_Plaza006.jpg": {
+  "slug": "685-plaza006",
+  "w": 850,
+  "h": 1276,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(232,216,200)"
+ },
+ "imgi_686_Plaza008.jpg": {
+  "slug": "686-plaza008",
+  "w": 850,
+  "h": 1276,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(248,248,248)"
+ },
+ "imgi_687_Plaza0012.jpg": {
+  "slug": "687-plaza0012",
+  "w": 850,
+  "h": 1276,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(24,24,24)"
+ },
+ "imgi_694_A.jpg": {
+  "slug": "694-a",
+  "w": 850,
+  "h": 567,
+  "widths": [
+   480,
+   850
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "imgi_701_Yesterday.jpg": {
+  "slug": "701-yesterday",
+  "w": 567,
+  "h": 850,
+  "widths": [
+   480,
+   567
+  ],
+  "color": "rgb(8,72,88)"
+ },
+ "imgi_728_001.jpg": {
+  "slug": "728-001",
+  "w": 886,
+  "h": 567,
+  "widths": [
+   480,
+   886
+  ],
+  "color": "rgb(72,56,40)"
+ }
+}
